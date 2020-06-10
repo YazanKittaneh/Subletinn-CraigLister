@@ -9,7 +9,7 @@ MarkupSafe==1.0
 olefile==0.44
 Pillow==4.1.1
 python-dotenv==0.6.4
-requests==2.18.1
+requests==2.23.0
 selenium==3.4.3
 slack-cleaner==0.3.0
 slacker==0.9.50
