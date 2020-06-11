@@ -13,6 +13,6 @@ requests==2.18.1
 selenium==3.4.3
 slack-cleaner==0.3.0
 slacker==0.9.50
-urllib3==1.21.1
+urllib3==1.25.9
 Werkzeug==0.12.2
 Gmail
