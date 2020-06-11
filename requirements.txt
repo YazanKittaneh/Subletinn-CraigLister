@@ -6,7 +6,7 @@ idna==2.5
 itsdangerous==0.24
 Jinja2==2.9.6
 MarkupSafe==1.0
-olefile==0.44
+olefile==0.46
 Pillow==4.1.1
 python-dotenv==0.6.4
 requests==2.18.1
